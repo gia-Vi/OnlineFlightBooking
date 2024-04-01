@@ -14,7 +14,6 @@ Giao diện của admin
 
 Giao diện trang chủ 
 
-![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/2d9f73af-4c1a-4a9d-84e0-87306b7ac237)
 ![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/8a5a3149-3b2c-44c4-a6f9-85ea44719885)
 
 
@@ -49,3 +48,23 @@ Giao diện xem lại thông tin vé
 Giao diện danh sách chuyến bay và xóa chuyến bay
 
 ![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/9f1d25d2-e9f7-4b1c-9a73-ef3a760f9d01)
+
+Giao diện thêm chuyến bay
+
+![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/7edfb06e-792b-4d95-bbe8-4c39bcfdd144)
+
+Giao diện danh sách máy bay và xóa máy bay 
+
+![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/fe41721f-3fb9-4f42-a324-627b565f5b69)
+
+Giao diện thêm máy bay 
+
+![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/c4506435-149e-4eaa-b147-b53349d42da5)
+
+Giao diện quản lý tài khoản khách hàng 
+
+![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/65ea4945-a8c0-420a-84a7-d22669062f17)
+
+Giao diện trang chủ của admin và thống kê doanh thu 
+
+![image](https://github.com/typhoons2/OnlineFlightBooking/assets/103090424/ae4e8581-eefd-4592-af33-a172ef2b3a26)
