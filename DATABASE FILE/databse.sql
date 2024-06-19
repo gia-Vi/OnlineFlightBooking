@@ -2,6 +2,8 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+07:00";
 
+CREATE DATABASE ofbsphp;
+USE ofbsphp;
 
 CREATE TABLE `admin` (
   `admin_id` int(11) NOT NULL,
